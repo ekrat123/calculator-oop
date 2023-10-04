@@ -5,8 +5,6 @@ This is a simple calculator web application implemented using Object-Oriented Pr
 ## Table of Contents
 
 - [Demo](#demo)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Credits](#credits)
 
 ## Demo
